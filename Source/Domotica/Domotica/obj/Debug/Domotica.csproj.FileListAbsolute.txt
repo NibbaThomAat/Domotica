@@ -148,3 +148,7 @@ C:\Users\thomd\Documents\InHolland\1\Domotica\git\Domotica\Source\Domotica\Domot
 C:\Users\thomd\Documents\InHolland\1\Domotica\git\Domotica\Source\Domotica\Domotica\obj\Debug\Domotica.csproj.CopyComplete
 C:\Users\thomd\Documents\InHolland\1\Domotica\git\Domotica\Source\Domotica\Domotica\obj\Debug\Domotica.dll
 C:\Users\thomd\Documents\InHolland\1\Domotica\git\Domotica\Source\Domotica\Domotica\obj\Debug\Domotica.pdb
+C:\Users\thomd\Documents\InHolland\1\Domotica\git\Domotica\Source\Domotica\Domotica\bin\Google.Protobuf.dll
+C:\Users\thomd\Documents\InHolland\1\Domotica\git\Domotica\Source\Domotica\Domotica\bin\MySql.Data.dll
+C:\Users\thomd\Documents\InHolland\1\Domotica\git\Domotica\Source\Domotica\Domotica\bin\Google.Protobuf.xml
+C:\Users\thomd\Documents\InHolland\1\Domotica\git\Domotica\Source\Domotica\Domotica\bin\MySql.Data.xml

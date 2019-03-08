@@ -1,0 +1,32 @@
+﻿#nav_left, #nav_right {
+	top: 50%;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: rgb(150, 150, 150);
+	cursor: pointer;
+	font-size: 100px;
+}
+
+#nav_left {
+	transform: translateY(-50%);
+	-x-transform: translateY(-50%);
+	left: 0px;
+}
+
+#nav_right {
+	transform: translateY(-50%) translateX(-100%);
+	-x-transform: translateY(-50%) translateX(-100%);
+	left: 100%;
+}
+
+div.container-fluid {
+	left: 50%;
+	width: 80%;
+	transform: translateX(-50%);
+	-x-transform: translateX(-50%);
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+div.col div {
+	min-height: 130px;
+}
